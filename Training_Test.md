@@ -1,4 +1,5 @@
 <h1>Training Title</h1>
+<img src="https://cloud.githubusercontent.com/assets/15171389/10567744/63bfd4a8-75da-11e5-84c3-c84a6272f7a2.png"/>
 <a href="#Jump1">It makes our modern lives possible</a>, but we hardly give it a thought. It's the key to plans for cleaner, greener sources of power, but it is fed by the oldest and dirtiest fuels
 
 The electricity grid is a marvel of reliability, but, in many ways, it's a throwback to century-old technology. And for a future with more computers and gizmos of every kind — and more power from renewable sources — the grid is going to need some major work.
